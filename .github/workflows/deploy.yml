@@ -6,7 +6,7 @@ on:
 
 env:
 
-  # alphanumeric string under 14 characters
+  # alphanumeric string under 14 characters.
   RESOURCE_GROUP_NAME: globalmeter
 
   # specify your preferred region
